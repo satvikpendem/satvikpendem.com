@@ -1,0 +1,23 @@
+:root {
+  --background-color: white;
+  --text-color: black;
+}
+
+html {
+  background: var(--background-color);
+  color: var(--text-color);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-color: white;
+    --text-color: black;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: black;
+    --text-color: white;
+  }
+}
