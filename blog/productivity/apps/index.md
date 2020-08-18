@@ -1,6 +1,6 @@
 # Apps
 
-I frequently use multiple platforms, such as Windows, macOS, Linux, iOS, Android, and web, for various tasks that require each platform. Here are the best apps I use on each system that are relatively unknown:
+I frequently use multiple platforms, such as Windows, macOS, Linux, iOS, Android, and web, for various tasks that require each platform. These are the best apps in terms of productivity, efficiency, and fun, for each system that are also relatively unknown:
 
 # Windows
 
@@ -66,6 +66,8 @@ There are other alternatives like TG Pro (**paid** with free trial) that provide
 ## [Rectangle](https://github.com/rxhanson/Rectangle) (**free**, open source)
 
 This divides up windows using keyboard shortcuts, similar to other window managers that you may have used. I only use this for a single shortcut, however, as I use [Divvy](#divvy-paid-with-free-trial) for everything else. This shortcut is *maximize the current window to fit the screen*: ⇧⌥↩. macOS has an annoying habit of not maximizing, much as Windows would, when double clicking a window title bar, so I use this shortcut instead.
+
+<img src="https://user-images.githubusercontent.com/13651296/71896594-7cdb9280-3154-11ea-83a7-70b71c6df9d4.png">
 
 ## [iGlance](https://github.com/iglance/iGlance) (**free**, open source)
 
