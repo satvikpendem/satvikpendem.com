@@ -110,11 +110,19 @@ On Windows, if you click the date/time, it'll show a calendar which is very usef
 
 ![](https://www.rawinfopages.com/mac/sites/default/files/sites/default/files/img17/itsycal-2.jpg)
 
-## [iina](https://iina.io/) (**free**, [open source](https://github.com/iina/iina))
+## [IINA](https://iina.io/) (**free**, [open source](https://github.com/iina/iina))
 
 iina is a native macOS video player that can handle a lot of video formats, as well as audio. It is mpv-based so it can do the same voice distortion counter-action as [SMPlayer](#smplayer-free-open-source), see that section for more details.
 
 ![](https://iina.io/images/sc-sky.png)
+
+## [PDF Expert](https://pdfexpert.com/) (**free**, optional paid features)
+
+This PDF viewer is great because it includes a dark mode, something that the default macOS Preview app does not, even while macOS got a full-fledged dark mode in version 10.15 Catalina, so it's weird that not all native macOS apps support it. There are also other features like annotating PDFs and integration with your iPad and iPhone as well, although I don't use those personally.
+
+![](https://pdfexpert.com/img/theme.20170130/index/20170301/block01_alldevices.png)
+
+![](https://i.postimg.cc/d1YK9sxt/Screenshot-2019-01-30-at-17-45-20.png)
 
 ## [Parallels](https://www.parallels.com/) (**paid**, subscription)
 
@@ -264,6 +272,12 @@ After removing ads from YouTube with [uBlock Origin](#ublock-origin-free-open-so
 If you want to support your creators, you can whitelist channels, or better yet, donate directly to them via Patreon or similar, and they'll get a lot more of your money than ads or sponsorship deals.
 
 ![](https://addons.cdn.mozilla.net/user-media/previews/thumbs/227/227750.png?modified=1572882419)
+
+## [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) (**free**, open source)
+
+This bypasses those annoying paywalls on a lot of sites, including Medium, Bloomberg, The New York Times, and so on. Again, if you really want to support them, buy a subscription or send money directly.
+
+![](https://raw.githubusercontent.com/iamadamdev/bypass-paywalls-chrome/master/src/icons/bypass.png)
 
 ## [Hover Zoom+](https://github.com/extesy/hoverzoom) (**free**, open source)
 
