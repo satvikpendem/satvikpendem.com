@@ -35,7 +35,7 @@ This is a video player that can handle many video formats. I use it with [SVP4](
 
 ## [SMPlayer](https://www.smplayer.info/) (**free**, open source)
 
-This is another media player, but it has the special quality of being mpv-based. I watch to a lot of lectures, listen to audiobooks and podcasts at 4x speed, but at this speed there's a lot of distortion. However, there are some settings in mpv which can counter-act this and make it sound natural, just like in Edge, Chrome, or Firefox (Safari suffers from this issue as well unfortunately). These settings are adding a `scaletempo` audio filter with the following properties:
+This is another media player, but it has the special quality of being mpv-based. I watch a lot of lectures, listen to audiobooks and podcasts at 4x speed, but at this speed there's a lot of distortion. However, there are some settings in mpv which can counter-act this and make it sound natural, just like in Edge, Chrome, or Firefox (Safari suffers from this issue as well unfortunately). These settings are adding a `scaletempo` audio filter with the following properties:
 
 `scaletempo=stride=30:overlap=.50:search=10`
 
@@ -94,7 +94,7 @@ Witch instead makes the macOS behavior more like Windows, with ⌥ ↹ acting li
 
 AdGuard is a computer-wide adblocker which works not only in web browsers but also in native desktop apps like Spotify. It's not as good as a network-wide solution like DNS blocking ([which AdGuard provides](https://adguard.com/en/adguard-dns/overview.html)) or [Pi-hole](https://pi-hole.net/), but it gets the job done. AdGuard is also available for Windows, iOS and Android, which I use.
 
-![](https://i.imgur.com/jfHWQzC.png" style="width: 300px;)
+![](https://i.imgur.com/jfHWQzC.png)
 
 ## [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) (**free**, optional paid features)
 
