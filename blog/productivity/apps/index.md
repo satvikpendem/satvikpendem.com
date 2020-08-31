@@ -2,6 +2,8 @@
 
 I frequently use multiple platforms, such as Windows, macOS, Linux, iOS, Android, and web, for various tasks that require each platform. These are the best apps in terms of productivity, efficiency, and fun, for each system that are also relatively unknown:
 
+*If you like this kind of productivity content, [follow me on Twitter.](https://twitter.com/satvikpendem)*
+
 # Windows
 
 ## [SmoothVideoProject](https://www.svp-team.com/) (**paid**, free trial)
@@ -112,7 +114,7 @@ On Windows, if you click the date/time, it'll show a calendar which is very usef
 
 ## [IINA](https://iina.io/) (**free**, [open source](https://github.com/iina/iina))
 
-iina is a native macOS video player that can handle a lot of video formats, as well as audio. It is mpv-based so it can do the same voice distortion counter-action as [SMPlayer](#smplayer-free-open-source), see that section for more details.
+IINA is a native macOS video player that can handle a lot of video formats, as well as audio. It is mpv-based so it can do the same voice distortion counter-action as [SMPlayer](#smplayer-free-open-source), see that section for more details.
 
 ![](https://iina.io/images/sc-sky.png)
 
@@ -290,3 +292,5 @@ This allows you to hover your mouse over an image, video or GIF and it'll show u
 This lets you watch YouTube without all of the distractions, like the Trending tab, the viral videos, and so on. Use this in conjunction with [my advice on getting rid of YouTube recommendations](../../how-to/perils-of-youtube-recommendations/index.html).
 
 ![](https://lh3.googleusercontent.com/Dpz0bX24cXVZuNcpgbV61bc8K8OMI233NA_cFeLfI3rfdFpPWRnCxiBqu0GeWtmxbtwNRucBKg=w640-h400-e365)
+
+*If you like this kind of productivity content, [follow me on Twitter.](https://twitter.com/satvikpendem)*

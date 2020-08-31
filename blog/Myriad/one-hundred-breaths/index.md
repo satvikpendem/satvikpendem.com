@@ -7,3 +7,5 @@ There were a great many temples here. Some were in tiny street corners, with bur
 I breathed. Then I counted. In. Out. In again. And out again. Each breath incrementing my mental counter, I felt change. Each breath came and went, and my intrusive thoughts quieted. Frisson washed over me at certain points, and my body relaxed as each muscle let go of all attachments.
 
 To one hundred I went, and when I came out of the meditative trance, there was only serene calm. Another feeling welled up as well. I found intense focus, and I knew what I had to do. Long story short, I continued on my worldly journey, my next visa being accepted. Meditation does not change one's outward problems, of course, but it aids in clearing the mind to solve these problems. Therefore, in times of need, I ask you to take one hundred breaths, or even ten, or even just one. Breathe in deeply, filling your lungs, and breathe out just as deeply; in,and out. The rollicking ship on tempestuous storms finds its placid ocean soon enough.
+
+*If you like this kind of content, [follow me on Twitter.](https://twitter.com/satvikpendem)*

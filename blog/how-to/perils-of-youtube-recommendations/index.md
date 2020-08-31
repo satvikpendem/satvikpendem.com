@@ -2,6 +2,7 @@
 
 As you probably know, YouTube just sucks you in, especially with their recommended videos that seem so irresistible with their clickbait titles and thumbnails. I've found that the best way to protect against excessive YouTube binge watching was to turn off search and watch history. I'll go through different approaches I've tried and explain why I've most recently settled on this method.
 
+*If you like this kind of productivity content, [follow me on Twitter.](https://twitter.com/satvikpendem)*
 
 ## Methods Tried
 
@@ -43,3 +44,5 @@ To turn off recommendations, you'll need to turn off and delete search and watch
   - Android - Since YouTube is a system app that comes with the phone, you need to disable it which is effectively like deleting it. Go to Apps in your Settings and find the YouTube app. It should have a button to Disable. Tap it and follow the prompts.
 
 There you have it, your YouTube should now be pristine, and it may finally help you kick the binge watching habit while still being useful for looking up productive videos.
+
+If you like this kind of productivity content, [follow me on Twitter.](https://twitter.com/satvikpendem)

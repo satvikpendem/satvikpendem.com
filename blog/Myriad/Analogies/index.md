@@ -28,3 +28,5 @@ Here's the list I came up with:
   - The crowdsourced Uber/Airbnb model
 
 This list came up due to my experience in business and technology, but if I had expertise in other fields, then this list would've been different. Learn from different domains and create analogies between them to think of new ideas and combinations of those ideas.
+
+*If you like this kind of content, [follow me on Twitter.](https://twitter.com/satvikpendem)*
